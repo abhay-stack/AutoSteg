@@ -38,6 +38,7 @@ cd autosteg
 Make the script executable:
 
 ```bash
+git clone https://github.com/abhay-stack/AutoSteg.git
 chmod +x autosteg.sh
 ```
 
